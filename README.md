@@ -1,4 +1,4 @@
-## I :heart: CSS and JavaScript
+## I :heart: CSS & JS
 
 <!--
 **JewelRichardson/JewelRichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
